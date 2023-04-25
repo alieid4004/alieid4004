@@ -18,7 +18,7 @@
  <img src="https://camo.githubusercontent.com/48a998837da8e6931b5579699e205852b6586b52e3a6fede79d19dda4522dcb3/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d416e746f6e2670617573653d3130303026636f6c6f723d3233383846372663656e7465723d747275652677696474683d343335266c696e65733d4f7065726174696e672b53797374656d732b446576656c6f706572" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Anton&amp;pause=1000&amp;color=2388F7&amp;center=true&amp;width=435&amp;lines=Operating+Systems+Developer" style="max-width: 100%;">
 </div>
 
-<div align="center" dir="auto">
+<div>
  <h1> Hi, I’m Ali Eid 
 <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 30px; hight: 30px; display: inline-block;" data-target="animated-image.originalImage"></h1>
  
