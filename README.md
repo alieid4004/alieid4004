@@ -27,7 +27,7 @@
 <img src="https://camo.githubusercontent.com/e79ff1a2b293a42ffa5e3f2c69e6290d731b874b83d2c2578ed4ce29500bf0f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457862575a7a64477835656e4d77636a41784f576c7059576876654773345a484e686258706b646d4978647a4d77636a5672656a426b4d435a6a6444316e2f663369774a464f564f777579374b364646772f67697068792e676966" height="300" data-canonical-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZzdGx5enMwcjAxOWlpYWhveGs4ZHNhbXpkdmIxdzMwcjVrejBkMCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 <hr>
-<div>
+<div align="center" dir="auto">
  <h3>
   <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji>
    Languages and Tools :
