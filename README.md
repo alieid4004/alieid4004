@@ -33,7 +33,7 @@
    Languages and Tools :
  </h3>
  <div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-plain.svg" title="CPP" alt="CPP" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
